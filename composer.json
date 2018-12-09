@@ -1,0 +1,12 @@
+{
+    "name": "r2/php_firebase",
+    "authors": [
+        {
+            "name": "José Enrique Sevilla",
+            "email": "drilosv13@gmail.com"
+        }
+    ],
+    "require": {
+        "kreait/firebase-php": "^4.18"
+    }
+}
